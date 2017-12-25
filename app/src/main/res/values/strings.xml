@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="hello">哈囉，BMI</string>
+    <string name="bmi_height">\n身高(cm)</string>
+    <string name="bmi_weight">\n體重(kg)</string>
+    <string name="enter_height">請輸入身高</string>
+    <string name="enter_weight">請輸入體重</string>
+    <string name="bmi_btn">計算BMI值</string>
+    <string name="advice_light">你該多吃點</string>
+    <string name="advice_arerage">身材很標準</string>
+    <string name="advice_heavy">你該節食了</string>
+    <string name="hello_world">ZAWARUDO!</string>
+    <string name="about_title">關於Android BMI</string>
+    <string name="about_msg">Android BMI</string>
+    <string-array name="items">
+        <item>關於</item>
+        <item>結束</item>
+        <item>項目3</item>
+        <item>項目4</item>
+        <item>項目5</item>
+    </string-array>
+
+</resources>
